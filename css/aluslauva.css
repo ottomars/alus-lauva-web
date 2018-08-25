@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font-size: 1em;
+}
+
+.container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+  width: 100%;
+  height: 601px;
+  margin: 0 auto;
+  padding-top: 84px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.image {
+  display: block;
+  width: 60%;
+  height: auto;
+  margin: 0 auto;
+  overflow: hidden;
+}
